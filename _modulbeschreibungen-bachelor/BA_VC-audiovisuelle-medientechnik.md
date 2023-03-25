@@ -21,7 +21,8 @@ studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung, in Ausnahmefällen mündliche Online-Prüfung
     erstpruefer: hk
-    zweitpruefer: gh
+    zweitpruefer: simonporten
+    datum: ende
 ---
 
 ## Lehrform/SWS

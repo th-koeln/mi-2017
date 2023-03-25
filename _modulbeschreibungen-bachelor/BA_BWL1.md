@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: BWL1
 untertitel:
 studiensemester: 5
-kategorie:
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -17,9 +17,10 @@ veranstaltungsform:
 infourl: 
 studienleistungen:
   Einzelleistung:
-    art: Schriftliche Prüfung
+    art: Schriftliche Prüfung via ILIAS eAssessment
     erstpruefer: moe
     zweitpruefer: tk
+    datum: ws-2    
 ---
 
 ## Lehrform/SWS

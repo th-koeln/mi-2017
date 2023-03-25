@@ -1,6 +1,6 @@
 ---
 title: Informations- ud Prozessmanagement
-modulverantwortlich: Friedrich Knittel
+modulverantwortlich: N.N.
 kuerzel: IPM
 studiensemesterWs: 3
 studiensemesterSs: 2

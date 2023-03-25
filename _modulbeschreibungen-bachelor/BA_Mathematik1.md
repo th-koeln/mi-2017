@@ -5,13 +5,14 @@ modulniveau: bachelor
 kuerzel: MA1
 untertitel:
 studiensemester: 1
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 voraussetzungenNachPruefungsordnung: keine
 empfohleneVoraussetzungen: 
 kreditpunkte: 7
 layout: modulbeschreibung
 typ: pm
+pvl: true
 veranstaltungsform: 
 infourl: https://ilias.th-koeln.de/ilias.php?ref_id=1664123&cmdClass=ilobjcoursegui&cmdNode=w4:l5&baseClass=ilrepositorygui&redirectSource=ilcourseregistrationgui&cmdMode=
 studienleistungen:
@@ -19,6 +20,7 @@ studienleistungen:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: wk
     zweitpruefer: aschmitter
+    datum: ws-1
 ---
 
 Weitere Infos unter [http://www.gm.fh-koeln.de/~konen/Mathe1-WS/index.htm](http://www.gm.fh-koeln.de/~konen/Mathe1-WS/index.htm).

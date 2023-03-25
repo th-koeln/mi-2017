@@ -18,8 +18,9 @@ parent: PP
 studienleistungen:
   Einzelleistung:
     art: Schriftliche Ausarbeitung, Projektdokumentation
-    erstpruefer: all
-    zweitpruefer: all
+    erstpruefer: eingesetzterPruefer
+    zweitpruefer: mas
+    datum: vereinbarung
 ---
 
 ## Lehrform/SWS

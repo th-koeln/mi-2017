@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: EBR
 untertitel:
 studiensemester: 1
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -20,6 +20,7 @@ studienleistungen:
     art: Schriftliche Prüfung
     erstpruefer: sk
     zweitpruefer: hls
+    datum: ws-2
 ---
 
 ## Lehrform/SWS

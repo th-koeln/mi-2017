@@ -13,11 +13,11 @@ empfohleneVoraussetzungen: Einführung in die Medieninformatik, Algorithmen und 
 published: true
 layout: modulbeschreibung
 veranstaltungsform: 
-typ: pm
+typ: wpf
 infourl: 
 studienleistungen:
   Einzelleistung:
-    art: Hausarbeit, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
+    art: Hausarbeit über Ilias E-Assessment, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: mboehmer
     zweitpruefer: lk
 ---

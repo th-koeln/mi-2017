@@ -1,11 +1,11 @@
 ---
 title: Grundlagen des Web
-modulverantwortlich: jkus
+modulverantwortlich: viet
 modulniveau: bachelor
 kuerzel: GW
 untertitel:
 studiensemester: 3
-kategorie:
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -18,12 +18,14 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Mündliche Prüfung
-    erstpruefer: jkus
+    erstpruefer: viet
     zweitpruefer: maa
+    datum: vereinbarung
   Teamleistung:
     art: Projektarbeit
-    erstpruefer: jkus
+    erstpruefer: viet
     zweitpruefer: maa, nkuhn, mfaske
+    datum: ende    
 ---
 
 ## Kurzbeschreibung

@@ -1,6 +1,6 @@
 ---
 title: Frameworks, Daten und Dienste im Web
-modulverantwortlich: dbreuer
+modulverantwortlich: viet
 modulniveau: bachelor
 kuerzel: FDDW
 untertitel:
@@ -21,10 +21,12 @@ studienleistungen:
     art: Mündliche Prüfung
     erstpruefer: dbreuer
     zweitpruefer: maa
+    datum: ende
   Teamleistung:
     art: Projektarbeit
     erstpruefer: dbreuer
     zweitpruefer: maa
+    datum: ende
 ---
 
 ## Aufwand

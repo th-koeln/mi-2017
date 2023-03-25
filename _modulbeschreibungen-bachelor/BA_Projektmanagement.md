@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: PM
 untertitel:
 studiensemester: 5
-kategorie:
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -20,6 +20,7 @@ studienleistungen:
     art: Projekt-Ausarbeitung (30%), Vortrag (30%), Schriftliche Prüfung (40%)
     erstpruefer: hg, mw
     zweitpruefer: hg, mw
+    datum: vereinbarung
 ---
 
 ## Kurzbeschreibung

@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: AP1
 untertitel:
 studiensemester: 1
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 kreditpunkte: 8
 voraussetzungenNachPruefungsordnung: keine
@@ -15,11 +15,13 @@ layout: modulbeschreibung
 veranstaltungsform: 
 typ: pm
 infourl: https://ilias.th-koeln.de/ilias.php?ref_id=19830&cmdClass=ilrepositorygui&cmdNode=w4&baseClass=ilrepositorygui
+pvl: true
 studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: fv
     zweitpruefer: ck
+    datum: ws-1
 ---
 
 ## Lehrform/SWS

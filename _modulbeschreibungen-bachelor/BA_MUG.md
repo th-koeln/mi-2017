@@ -1,11 +1,11 @@
 ---
 title: Medienrecht, Medien & Gesellschaft
-modulverantwortlich: mw
+modulverantwortlich: bb
 modulniveau: bachelor
 kuerzel: IRG
 untertitel:
 studiensemester: 5
-kategorie:
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -21,11 +21,13 @@ studienleistungen:
     art: Präsentation im OpenSpace, Klausur
     erstpruefer: mw
     zweitpruefer: 
+    datum: ws-2
   recht:
     teilmodul: Recht
     art: Klausur
     erstpruefer: jh
     zweitpruefer: 
+    datum: ws-2
 ---
 
 ## Lehrform/SWS

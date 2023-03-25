@@ -1,11 +1,11 @@
 ---
 title: Entwicklungsprojekt
-modulverantwortlich: mi
+modulverantwortlich: gh, hk, mbluemm, cn
 modulniveau: bachelor
 kuerzel: EPM
 untertitel:
 studiensemester: 5
-kategorie:
+kategorie: spezialisierung
 sprache: deutsch
 kreditpunkte: 10
 voraussetzungenNachPruefungsordnung: keine
@@ -18,8 +18,9 @@ infourl: https://ilias.th-koeln.de/goto.php?target=crs_1328242&client_id=ILIAS_F
 studienleistungen:
   Einzelleistung:
     art: Projekt, Projektdokumentation und Meilensteinpräsentationen
-    erstpruefer: gh, hk, mbluemm, cn, ck
+    erstpruefer: gh, hk, mbluemm, cn
     zweitpruefer: 
+    datum: vereinbarung
 ---
 
 ## Lehrform/SWS

@@ -21,7 +21,7 @@ studienleistungen:
   Einzelleistung:
     art: Projektarbeit
     erstpruefer: gh
-    zweitpruefer: ck
+    zweitpruefer: nkuhn
 ---
 
 ## Lehrform/SWS

@@ -1,11 +1,11 @@
 ---
 title: Einführung in die Medieninformatik
-modulverantwortlich: cn, mbluemm, il, hk, gh
+modulverantwortlich: cn, mbluemm, il, hk, gh, viet
 modulniveau: bachelor
 kuerzel: EMI
 untertitel:
 studiensemester: 1
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -19,8 +19,8 @@ studienleistungen:
   Einzelleistung:
     art: Projektpräsentation(30%) und schriftliche Ausarbeitung(70%)
     erstpruefer: hk, gh, cn, mbl
-    zweitpruefer: uwm, vos, nag, erw
-
+    zweitpruefer: uwm, vos, maa, simonschulte
+    datum: ende
 ---
 
 ## Lehrform/SWS

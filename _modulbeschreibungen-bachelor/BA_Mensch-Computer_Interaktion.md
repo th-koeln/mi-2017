@@ -1,11 +1,11 @@
 ---
 title: Mensch-Computer Interaktion
-modulverantwortlich: gh
+modulverantwortlich: rog
 modulniveau: bachelor
 kuerzel: MCI
 untertitel:
 studiensemester: 2
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 kreditpunkte: 10
 voraussetzungenNachPruefungsordnung: keine
@@ -18,8 +18,9 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: individuelles Lernportfolio
-    erstpruefer: gh
+    erstpruefer: rog
     zweitpruefer: ck
+    datum: ende
 ---
 
 ## Lehrform/SWS

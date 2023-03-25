@@ -1,7 +1,7 @@
 ---
 title: Bildbasierte Computergrafik
-modulverantwortlich: all
-kuerzel: Lehrbeauftragter
+modulverantwortlich: mag
+kuerzel: BCG
 studiensemesterWs: 1
 studiensemesterSs: 2
 sprache: wahlweise deutsch oder englisch
@@ -18,7 +18,7 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Fachvortrag (40%), schriftlicher Projektbericht (60%)
-    erstpruefer: Andreas Karge
+    erstpruefer: mag
     zweitpruefer: hs
 ---
 
@@ -63,7 +63,7 @@ Nach erfolgreichem Abschluss
 - Warping und Morphing zur Bildinterpolation
 - Lichtfelder
 - Panorama und 360° Panorama Stitching
-- Python, C++, Cuda, OpenCL Programmierung
+- Python, C++ Programmierung
 
 
 ## Medienformen

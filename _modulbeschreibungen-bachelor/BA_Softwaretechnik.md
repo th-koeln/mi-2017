@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: ST1
 untertitel:
 studiensemester: 4
-kategorie: Winter
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -13,6 +13,7 @@ empfohleneVoraussetzungen: Grundkenntnisse Algorithmen, Datenbanken und objektor
 published: true
 layout: modulbeschreibung
 typ: pm
+pvl: true
 veranstaltungsform: 
 infourl: 
 studienleistungen:
@@ -20,6 +21,7 @@ studienleistungen:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: mw
     zweitpruefer: sb
+    datum: ss-2
 ---
 
 ## Kurzbeschreibung

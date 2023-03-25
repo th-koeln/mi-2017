@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: PDP
 untertitel:
 studiensemester: 3
-kategorie:
+kategorie: vertiefung
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -19,7 +19,8 @@ studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung
     erstpruefer: ck
-    zweitpruefer: 
+    zweitpruefer: ald
+    datum: ws-2
 ---
 
 ## Lehrform/SWS

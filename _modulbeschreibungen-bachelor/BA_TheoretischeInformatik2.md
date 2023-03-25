@@ -5,7 +5,7 @@ modulniveau: bachelor
 kuerzel: TI2
 untertitel:
 studiensemester: 2
-kategorie:
+kategorie: grundlagen
 sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
@@ -20,6 +20,7 @@ studienleistungen:
     art: Schriftliche Prüfung
     erstpruefer: il
     zweitpruefer: hls
+    datum: ss-2
 ---
 
 ## Lehrform/SWS
