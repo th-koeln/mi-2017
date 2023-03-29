@@ -20,7 +20,8 @@ studienleistungen:
   Einzelleistung:
     art: Lernportfolio
     erstpruefer: gh
-    zweitpruefer: 
+    zweitpruefer: nkuhn
+    datum: vereinbarung
 ---
 
 ## Lehrform/SWS
