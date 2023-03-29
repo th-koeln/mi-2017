@@ -19,12 +19,12 @@ parent: WD
 studienleistungen:
   Einzelleistung:
     art: Mündliche Prüfung
-    erstpruefer: dbreuer
+    erstpruefer: viet
     zweitpruefer: maa
     datum: ende
   Teamleistung:
     art: Projektarbeit
-    erstpruefer: dbreuer
+    erstpruefer: viet
     zweitpruefer: maa
     datum: ende
 ---
@@ -32,10 +32,15 @@ studienleistungen:
 ## Aufwand
 50h Vorlesung, Seminar; 100h Selbstlernphase
 
-## Angestrebte Lernergebnisse
-Die Studentinnen und Studenten kennen 
-- wesentliche Frameworks, Dienste und Werkzeuge für die serverseitige Entwicklung von Web Anwendungen
-- können ausgewählte Frameworks, Dienste und Tools in einem Projektkontext anwenden. 
+## Learning Outcomes
+**Was**: Studierenden können Web Anwendungen mit Hilfe von Frameworks, Daten und Diensten im Web implementieren
+
+**Womit**: indem sie 
+- synchrone und asynchrone Kommunikation berücksichtigen
+- Web Frameworks, Web Services sowie Websockets anwenden
+- in Teamarbeit sich selber organisieren
+
+**Wozu**: um komplexe Web-basierte Systeme als Team über mehrere Endgeräte hinweg zu entwerfen, implementieren und dokumentieren. 
 
 Die Kompetenz zur systematischen Entwicklung von Systemen in einem arbeitsteiligen Team wird eingeübt und vertieft. Kenntnisse aus den anderen Modulen der Vertiefung werden vertieft und verknüpft und im Rahmen eines konkreten Projektauftrags angewendet.
 
@@ -47,9 +52,10 @@ Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere
 
 ## Inhalt
 - NodeJS
-- Services im Web: Amazon WS (AWS), Google Firebase
-- NoSQL Datenbanken
-- Web Analyse: Piwik,
+- Microservices
+- Websockets
+- Asynchrone Kommunikation (Message Broker, Queueing-Systeme, Publish/Subscribe)
+- Offene Daten im Web
 
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
 
@@ -58,8 +64,6 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 ## Literatur
 - Tilkov et al.: REST und HTTP- Entwicklung und Integration nach dem Architekturstil des Web, dpunkt.verlag 2015
-- Watkin: Practical XMPP, Packt Publishing 2016
-- Saint-Andre: XMPP: THe Definitive Guide, OReilly 2009
-- Roy: RabbitMQ in Depth, Manning 2016
 - Newman: Building Microservices: Designing fine-grained systems, OReilly 2015
+- Gorski, Lo Iacono, Nguyen: Websockets - Moderne HTML5-Echtzeitanwendungen entwickeln, Carl Hanser Verlag 2015
 
