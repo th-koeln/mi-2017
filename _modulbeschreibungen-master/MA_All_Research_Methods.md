@@ -52,7 +52,7 @@ Sie sind in der Lage, die Methoden projektgerecht und methodenkompetent anzuwend
 - E-Books
 
 ## Literatur
-- Bortz, J.; Döring, N.: „Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler“, Springer Heidelberg, Berlin, 2006
+- Döring, N.; Bortz, J.: „Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften“, Springer Heidelberg, Berlin, 2016
 - Lazar, J. Feng, J., Hochheiser, H.: “Research Methods in Human-Computer Interaction”, Wiley, 2009
 - Mey, G., Mruck, K.: “Handbuch Qualitative Forschung in der Psychologie", Springer, 2010
 
