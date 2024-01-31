@@ -1,6 +1,6 @@
 ---
 title: Computergrafik und Animation
-modulverantwortlich: uwm
+modulverantwortlich: fn
 kuerzel: CGA
 untertitel:
 studiensemester: 4
@@ -18,8 +18,8 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Durchführung eines Projektes, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
-    erstpruefer: uwm
-    zweitpruefer: hk
+    erstpruefer: fn
+    zweitpruefer: uwm
     datum: ende
 ---
 
