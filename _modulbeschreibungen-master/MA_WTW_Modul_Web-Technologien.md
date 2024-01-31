@@ -19,8 +19,8 @@ studienleistungen:
   Einzelleistung:
     art: Lernportfolio und mündliche Prüfung
     erstpruefer: cn
-    zweitpruefer: sb
-    datum: 26.09.2023
+    zweitpruefer: vn
+    datum: 24.09.2024
 ---
 
 ## Kurzbeschreibung

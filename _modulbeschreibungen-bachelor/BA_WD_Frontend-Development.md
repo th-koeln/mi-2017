@@ -18,10 +18,10 @@ veranstaltungsform:
 parent: WD
 studienleistungen:
   Einzelleistung:
-    art: Schriftliche Prüfung
+    art: Performanzprüfung
     erstpruefer: cn
     zweitpruefer: vos
-    datum: 21.09.2023
+    datum: 26.09.2024
 ---
 ## Aufwand
 60h Vorlesung/ Seminar; 90h Selbstlernphase
@@ -49,11 +49,9 @@ Die Studierenden kennen das Zusammenspiel von server- und clientseitigen Kompone
 - Microdata, Internationalisierung, SEO, Barrierefreiheit
 
 ## Studien-/Prüfungsleistungen
-Projektarbeit mit Projektpräsentationsprüfung und Fachgespräch.
-
-## Medienformen
-Beamergestützte Vorträge, Rechnergestützte Workshops
+Performanzprüfung
 
 ## Literatur
 - Randy Connolly, Ricardo Hoar: Fundamentals of Web Development
+- [Mozilla Corporation: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
