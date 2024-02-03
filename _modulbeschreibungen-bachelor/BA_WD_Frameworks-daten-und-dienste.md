@@ -51,6 +51,7 @@ Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere
   - Service Contract
   - Microservices in Zusammenspiel mit Docker
 - Template Engines
+- HTML-Formulare
 - Testing
 
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
