@@ -17,7 +17,7 @@ veranstaltungsform:
 infourl: 
 studienleistungen:
   Einzelleistung:
-    art: Projekt-Ausarbeitung (30%), Vortrag (30%), Schriftliche Prüfung (40%)
+    art: Projekt-Ausarbeitung (40%), mündlicher Beitrag (60%)
     erstpruefer: hg, mw
     zweitpruefer: hg, mw
     datum: vereinbarung
