@@ -8,7 +8,7 @@ informatik-master: ss
 sprache: deutsch, Seminar-Basisliteratur i.d.R. in englischer Sprache
 kreditpunkte: 6
 voraussetzungenNachPruefungsordnung: keine über die Zulassungsvorrausetzungen zum Studium hinausgehenden
-empfohleneVoraussetzungen: Grundkenntnisse Softwaretechnik und Projektmanagement
+empfohlene Voraussetzungen: Grundkenntnisse Softwaretechnik und Projektmanagement
 published: true
 layout: modulbeschreibung
 typ: spm
@@ -74,10 +74,11 @@ Gewichtung der Prüfungsleistung für die Gesamtnote ist jeweils in Klammern ang
 ## Literatur
 - Adam, P.: Agil in der ISO 9001. Springer Fachmedien Wiesbaden, 2020 <https://rd.springer.com/book/10.1007/978-3-658-28311-7> 
 - Benes, M.E., Groh, P.E.: Grundlagen des Qualitätsmanagements. 4. Aufl., Carl Hanser Verlag, München, 2017
-- Brandes, C., Heller, M.: Qualitätsmanagement in agilen IT-Projekten - quo vadis? Springer Vieweg, 2017 <https://rd.springer.com/book/10.1007>/978-3-658-18085-0 
-- Brüggemann, H. & Bremer, P.: Grundlagen Qualitätsmanagement. Springer Fachmedien, Wiesbaden, 2020 <https://rd.springer.com/book/10.1007/978-3-658-28780-1> 
+- Brandes, C., Heller, M.: Qualitätsmanagement in agilen IT-Projekten - quo vadis? Springer Vieweg, 2017 <https://rd.springer.com/book/10.1007/978-3-658-18085-0> 
+- Brüggemann, H. & Bremer, P.: Grundlagen Qualitätsmanagement. Springer Fachmedien, Wiesbaden, 2020 <https://rd.springer.com/book/10.1007/978-3-658-28780-1>
+- Jakoby, W.: Qualitätsmanagement für Ingenieure: Eine Einführung in die qualitätsorientierte Gestaltung von Produkten, Prozessen und Organisationen. Springer Fachmedien Wiesbaden, 2022 <https://link.springer.com/book/10.1007/978-3-658-36677-3>
 - Kleuker, S.: Qualitätssicherung durch Softwaretests. Springer-Vieweg, Heidelberg, 2013 <http://link.springer.com/book/10.1007/978-3-8348-2068-6> 
-- Liggesmeyer, P: Software-Qualität. 2. Aufl., Spektrum Akademischer Verlag, Heidelberg, 2009 <http://link.springer.com/book/10.1007/978-3-8274-2203-3> 
-- Linß, G.: Qualitätsmanagement für Ingenieur. 4. Aufl., Carl Hanser Verlag, München, 2018
+- Liggesmeyer, P.: Software-Qualität. 2. Aufl., Spektrum Akademischer Verlag, Heidelberg, 2009 <http://link.springer.com/book/10.1007/978-3-8274-2203-3>
+- van Merode, H.: Continuous Integration (CI) and Continuous Delivery (CD): A Practical Guide to Designing and Developing Pipelines. Apress, 2023 <https://link.springer.com/book/10.1007/978-1-4842-9228-0>
 - Spillner, A.; Roßner, T.; Winter, M.; Linz, T.: Praxiswissen Softwaretest – Testmanagement (Aus- und Weiterbildung zum Certified Tester – Advanced Level nach ISTQB-Standard). 4. Aufl., dpunkt.verlag, Heidelberg, August 2014
 - Wallmüller, E.: Software-Quality Engineering – Ein Leitfaden für bessere Software-Qualität. 3., völlig überarbeitete Auflage, Hanser Verlag, München, 2011
