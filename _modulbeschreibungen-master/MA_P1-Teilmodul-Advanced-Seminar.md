@@ -20,7 +20,7 @@ studienleistungen:
     art: Projektarbeit
     erstpruefer: mbluemm
     zweitpruefer: gh
-    datum: vereinbarung
+    datum: ende
 ---
 
 ## Kurzbeschreibung
@@ -33,9 +33,7 @@ Projektarbeit
 180 Stunden
 
 ## Angestrebte Lernergebnisse
-Die Studentinnen und Studenten
-
-- können wissenschaftliche Gebiete und neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren und zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen;
+Die Studentinnen und Studenten können wissenschaftliche Gebiete und neuere Erkenntnisse und Entwicklungen in der Informatik und insbesondere der Medieninformatik, die für das Produkt wesentlich sein können, identifizieren, den Stand des Wissens ermitteln und in einem Fachdiskurs darstellen und diskutieren und zu einem kritischen Fachdiskurs über Potenziale und Risiken der Ideen beitragen;
 
 ## Inhalt
 Die Studierenden recherchieren und erschließen im Selbststudium die für den Projektgegenstand relevante Literatur zum Stand von Wissenschaft und Technik. Sie wenden auch Analysetechniken für die Bewertung vorhandener kommerziellen Lösungen an. Hierbei kann es sich sowohl um Konkurrenzprodukte handeln als auch um Dienste oder Frameworks, auf die der Projektgegenstand aufbauen könnte. Als Schwerpunkt dieses Teils identifizieren die Studierenden wissenschaftliche Felder, die für den Projektgegenstand relevant sind, recherchieren entsprechende Literatur und vermitteln und diskutieren diese in einem wissenschaftlichen Seminar.
