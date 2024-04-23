@@ -1,6 +1,6 @@
 ---
 title: Visualisierung
-modulverantwortlich: chh
+modulverantwortlich: fn
 kuerzel: VI
 studiensemesterWs: 2
 studiensemesterSs: 3
@@ -18,7 +18,7 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: 2 Fachvorträge (je 30%), Projektpräsentation und -dokumentation (40%)
-    erstpruefer: chh
+    erstpruefer: fn
     zweitpruefer: gh
     datum: ende
 ---
