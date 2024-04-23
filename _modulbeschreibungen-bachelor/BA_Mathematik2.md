@@ -15,13 +15,13 @@ layout: modulbeschreibung
 typ: pm
 pvl: true
 veranstaltungsform: 
-infourl: 
+infourl: https://ilu.th-koeln.de/goto.php?target=crs_276957&client_id=thkilu
 studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: wk
     zweitpruefer: aschmitter
-    datum: ss-1-2
+    datum: ss-1-2, ws-1
 ---
 
 ## Lehrform/SWS

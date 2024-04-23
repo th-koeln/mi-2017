@@ -14,13 +14,13 @@ layout: modulbeschreibung
 typ: pm
 pvl: true
 veranstaltungsform: 
-infourl: https://ilias.th-koeln.de/ilias.php?ref_id=1664123&cmdClass=ilobjcoursegui&cmdNode=w4:l5&baseClass=ilrepositorygui&redirectSource=ilcourseregistrationgui&cmdMode=
+infourl: https://ilu.th-koeln.de/goto.php?target=crs_71284&client_id=thkilu
 studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: wk
     zweitpruefer: aschmitter
-    datum: ws-2
+    datum: ws-2, ss-1-2
 ---
 
 Weitere Infos unter [http://www.gm.fh-koeln.de/~konen/Mathe1-WS/index.htm](http://www.gm.fh-koeln.de/~konen/Mathe1-WS/index.htm).

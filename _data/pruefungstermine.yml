@@ -15,4 +15,6 @@ ende:
 antrag:
     name: entsprechend Antrag
 vereinbarung:
-    name: nach Vereinbarung    
+    name: nach Vereinbarung
+vlz:
+    name: während der Vorlesungszeit
