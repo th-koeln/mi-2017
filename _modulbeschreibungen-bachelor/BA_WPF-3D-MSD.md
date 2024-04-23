@@ -10,7 +10,7 @@ sprache: deutsch
 kreditpunkte: 5
 voraussetzungenNachPruefungsordnung: keine
 empfohleneVoraussetzungen: 
-published: true
+published: false
 layout: modulbeschreibung
 typ: tm
 veranstaltungsform: 
@@ -19,7 +19,7 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Projekt u. Lernportfolio
-    erstpruefer: hk
+    erstpruefer: fn
     zweitpruefer: simonschulte
     datum: ende
 ---
