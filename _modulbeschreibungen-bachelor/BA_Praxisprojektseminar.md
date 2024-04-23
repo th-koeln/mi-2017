@@ -1,6 +1,6 @@
 ---
 title: Praxisprojekt, Seminarteil
-modulverantwortlich: cn
+modulverantwortlich: viet
 modulniveau: bachelor
 kuerzel: PPS
 untertitel:
@@ -20,7 +20,7 @@ parent: PP
 studienleistungen:
   Einzelleistung:
     art: Seminarvortrag und Abstract zur Praxisprojektarbeit
-    erstpruefer: cn
+    erstpruefer: viet
     zweitpruefer: all
     datum: vereinbarung
 ---

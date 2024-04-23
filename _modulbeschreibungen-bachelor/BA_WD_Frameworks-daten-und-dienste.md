@@ -18,13 +18,8 @@ veranstaltungsform:
 parent: WD
 studienleistungen:
   Einzelleistung:
-    art: Mündliche Prüfung
-    erstpruefer: dbreuer
-    zweitpruefer: mfaske
-    datum: ende
-  Teamleistung:
-    art: Projektarbeit
-    erstpruefer: dbreuer
+    art: Mündliche Prüfung und Projektarbeit
+    erstpruefer: viet
     zweitpruefer: mfaske
     datum: ende
 ---
@@ -46,10 +41,18 @@ Den Teilnehmern steht eine Auswahl an Techniken und Frameworks zur Verfügung, a
 Die StudentenInnen sind in der Lage eine komplexe Anwendung im Web über mehrere Endgeräte hinweg zu planen, zu realisieren und zu dokumentieren. 
 
 ## Inhalt
-- NodeJS
-- Services im Web: Amazon WS (AWS), Google Firebase
-- NoSQL Datenbanken
-- Web Analyse: Piwik,
+- WebSockets
+- AJAX und XmlHTTPRequest
+- Asychrone Kommunikationsmodelle
+  - Message Broker
+  - Publisch/Subscribe
+  - Message Queque
+- SOA
+  - Service Contract
+  - Microservices in Zusammenspiel mit Docker
+- Template Engines
+- HTML-Formulare
+- Testing
 
 Ausgewählte Tools sollen tiefgreifend erarbeitet werden und in einem Projektkontext angewendet werden. Dies erfolgt in der Regel in dem begleitenden Projekt
 
@@ -58,8 +61,7 @@ Beamergestützte Vorträge, Rechnergestützte Workshops
 
 ## Literatur
 - Tilkov et al.: REST und HTTP- Entwicklung und Integration nach dem Architekturstil des Web, dpunkt.verlag 2015
-- Watkin: Practical XMPP, Packt Publishing 2016
-- Saint-Andre: XMPP: THe Definitive Guide, OReilly 2009
+- Luigi Lo Iacono, Peter Leo Gorski und Hoai Viet Nguyen: Websockets - Moderne HTML5-Echtzeitanwendungen entwickeln
 - Roy: RabbitMQ in Depth, Manning 2016
 - Newman: Building Microservices: Designing fine-grained systems, OReilly 2015
 

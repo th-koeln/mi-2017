@@ -18,7 +18,7 @@ parent: SC
 infourl: 
 studienleistungen:
   Einzelleistung:
-    art: Projektarbeit
+    art: Projektarbeit (mit Präsentation)
     erstpruefer: mbluemm
     zweitpruefer: ck, uwm, simonschulte
     datum: ende
@@ -26,7 +26,7 @@ studienleistungen:
     art: Projekt- und Projektpräsentationsprüfung
     erstpruefer: mbluemm
     zweitpruefer: ck, uwm, simonschulte 
-    datum: ende
+    datum: 12.06.24
 ---
 
 ## Lehrform/SWS
