@@ -145,13 +145,17 @@ const insertEmailAdresses = (target, term)=>{
 
 	const emailAdresses = {};
 	emailDataNodes.forEach((node, currentIndex, listObj) => {
+		
 			if(!node.dataset.verantwortlich.match(/@/)) return;
-			const adresses = splitAdresses(node.dataset.verantwortlich);
 			
+			const adresses = splitAdresses(node.dataset.verantwortlich);	
 			adresses.forEach(adress => {
 				if(!emailAdresses[adress]) emailAdresses[adress] = 0;
-				emailAdresses[adress]++;
+				if(adress.match(/[a-z]/)){
+					emailAdresses[adress]++;
+				}				
 			});
+
 		}
 	);
 
@@ -163,8 +167,12 @@ const insertEmailAdresses = (target, term)=>{
 
 document.addEventListener('DOMContentLoaded', (event) => {
 	
-	const insertEmailsJS = document.querySelector('[data-js=insert-emails-ws]');
-	if(insertEmailsJS === null) return false;
-	insertEmailAdresses(insertEmailsJS, 'ws');
+	const insertEmailsJSws = document.querySelector('[data-js=insert-emails-ws]');
+	if(insertEmailsJSws === null) return false;
+	insertEmailAdresses(insertEmailsJSws, 'ws');
+
+	const insertEmailsJSss = document.querySelector('[data-js=insert-emails-ss]');
+	if(insertEmailsJSss === null) return false;
+	insertEmailAdresses(insertEmailsJSss, 'ss');
 	
 });

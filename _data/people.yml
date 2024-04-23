@@ -66,6 +66,7 @@ nkuhn:
     name: 'Nathalie Kuhn'
     avatar: ''
     personenseite: 'https://www.th-koeln.de/personen/nathalie_michelle_severine.kuhn/'
+    email: 'nathalie_michelle_severine.kuhn@th-koeln.de'
     mi: true
 mfaske:
     id: mfaske
@@ -73,6 +74,7 @@ mfaske:
     name: 'Mario Faske'
     avatar: ''
     personenseite: 'https://www.th-koeln.de/personen/mario.faske/'
+    email: 'mario.faske@th-koeln.de'
     mi: true
 moe:
     id: moe
