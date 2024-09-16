@@ -251,6 +251,14 @@ chh:
     personenseite: 'https://www.th-koeln.de/personen/christian.hahn1/'
     email: 'christian.hahn@th-koeln.de'
     mi: true
+ybruegger:
+    id: ybruegger
+    status: wma
+    name: 'Yannic Brügger'
+    avatar: 'https://www.th-koeln.de/pseimg/a1a78bbddf2193afde25b3071c893cc8cc3e8231.png'
+    personenseite: 'https://www.th-koeln.de/personen/yannic.bruegger/'
+    email: 'yannic.bruegger@th-koeln.de'
+    mi: true    
 fv:
     id: fv
     status: prof
@@ -442,8 +450,7 @@ rmajewski:
     name: 'Prof. Dr. Roman Majewski'
     personenseite: 'https://www.th-koeln.de/personen/roman.majewski/'
     avatar: '/img/professoren/roman-majewski.jpg'
-    email: 'roman.majewski@th-koeln.de
-'
+    email: 'roman.majewski@th-koeln.de'
     mi: false    
 sb:
     id: sb
