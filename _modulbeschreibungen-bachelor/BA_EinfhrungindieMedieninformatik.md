@@ -19,7 +19,7 @@ studienleistungen:
   Einzelleistung:
     art: Projektpräsentation(30%) und schriftliche Ausarbeitung(70%)
     erstpruefer: mbluemm, viet
-    zweitpruefer: nkuhn, simonschulte, mfaske, maa
+    zweitpruefer: simonschulte, uwm
     datum: ende
 ---
 
