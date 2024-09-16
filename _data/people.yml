@@ -436,6 +436,15 @@ jschaible:
     avatar: '/img/professoren/johann-schaible.jpg'
     email: 'johann.schaible@th-koeln.de'
     mi: true
+rmajewski:
+    id: rmajewski
+    status: prof
+    name: 'Prof. Dr. Roman Majewski'
+    personenseite: 'https://www.th-koeln.de/personen/roman.majewski/'
+    avatar: '/img/professoren/roman-majewski.jpg'
+    email: 'roman.majewski@th-koeln.de
+'
+    mi: false    
 sb:
     id: sb
     status: prof
