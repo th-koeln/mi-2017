@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Medieninformatik
-modulverantwortlich: mbluemm, viet, mboehmer, hk, il, fn, mfaske, nkuhn
+modulverantwortlich: mbluemm, viet, mboehmer, hk, il, fn, simonschulte, uwm
 modulniveau: bachelor
 kuerzel: EMI
 untertitel:
