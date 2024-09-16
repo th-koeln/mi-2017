@@ -19,7 +19,7 @@ studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung
     erstpruefer: fn
-    zweitpruefer: hls
+    zweitpruefer: il
     datum: ws-1
 ---
 
