@@ -19,7 +19,7 @@ studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung
     erstpruefer: sk
-    zweitpruefer: hls
+    zweitpruefer: rmajewski
     datum: ws-2
 ---
 
