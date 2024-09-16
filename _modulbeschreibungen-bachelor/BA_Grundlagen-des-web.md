@@ -13,18 +13,18 @@ empfohleneVoraussetzungen: Einführung in die Medieninformatik, Algorithmen und 
 published: true
 layout: modulbeschreibung
 typ: pm
-veranstaltungsform: Remote, teils hybrid
+veranstaltungsform: vor Ort
 infourl: 
 studienleistungen:
   Einzelleistung:
     art: Mündliche Prüfung
     erstpruefer: viet
-    zweitpruefer: mfaske
+    zweitpruefer: ybruegger
     datum: vereinbarung
   Teamleistung:
     art: Projektarbeit
     erstpruefer: viet
-    zweitpruefer: maa, nkuhn, mfaske
+    zweitpruefer: ybruegger
     datum: ende    
 ---
 
