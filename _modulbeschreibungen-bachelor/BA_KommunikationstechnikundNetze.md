@@ -1,6 +1,6 @@
 ---
 title: Kommunikationstechnik und Netze
-modulverantwortlich: hls
+modulverantwortlich: sk
 modulniveau: bachelor
 kuerzel: KTN
 untertitel:
@@ -20,7 +20,7 @@ studienleistungen:
   Einzelleistung:
     art: Schriftliche Prüfung, sowie erfolgreiche Teilnahme am Praktikum als Prüfungsvorleistung
     erstpruefer: sk
-    zweitpruefer: 
+    zweitpruefer: rmajeweksi
     datum: ws-2
 ---
 
