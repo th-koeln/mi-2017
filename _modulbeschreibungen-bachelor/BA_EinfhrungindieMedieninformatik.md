@@ -18,8 +18,8 @@ infourl: https://ilu.th-koeln.de/ilias.php?ref_id=71274&cmd=infoScreen&cmdClass=
 studienleistungen:
   Einzelleistung:
     art: Projektpräsentation(30%) und schriftliche Ausarbeitung(70%)
-    erstpruefer: mbluemm, viet
-    zweitpruefer: simonschulte, uwm
+    erstpruefer: mbluemm, viet, gh
+    zweitpruefer: simonschulte, uwm, erw
     datum: ende
 ---
 
