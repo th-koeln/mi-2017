@@ -19,7 +19,7 @@ studienleistungen:
   Einzelleistung:
     art: Fachvortrag (40%), Projektumsetzung und Dokumentation (60%)
     erstpruefer: fn
-    zweitpruefer: hs
+    zweitpruefer: hk
     datum: vereinbarung
 ---
 
