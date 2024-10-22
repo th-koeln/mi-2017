@@ -1,6 +1,6 @@
 ---
 title: Projektanteil Projekt 3
-modulverantwortlich: mboehmer, hk, mbluemm, ck, gh, hs, fn, viet
+modulverantwortlich: mboehmer, hk, mbluemm, ck, gh, fn, viet
 kuerzel: P3
 studiensemesterWs: 3
 studiensemesterSs: 1
