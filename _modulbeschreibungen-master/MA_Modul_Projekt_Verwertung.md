@@ -18,8 +18,8 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Prüfungsform ist bei den jeweiligen Fächern angegeben
-    erstpruefer: gh, hk, mbluemm, cn, ck, hs
-    zweitpruefer: gh, hk, mbluemm, cn, ck, hs
+    erstpruefer: gh, hk, mbluemm, cn, ck
+    zweitpruefer: gh, hk, mbluemm, cn, ck
     datum: ende
 ---
 

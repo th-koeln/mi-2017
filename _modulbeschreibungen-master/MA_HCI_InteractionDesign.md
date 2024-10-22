@@ -21,7 +21,7 @@ studienleistungen:
   Einzelleistung:
     art: Projektarbeit
     erstpruefer: gh
-    zweitpruefer: nkuhn
+    zweitpruefer: lbrandhoff
     datum: ende
 ---
 

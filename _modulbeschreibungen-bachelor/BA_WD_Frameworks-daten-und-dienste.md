@@ -20,7 +20,7 @@ studienleistungen:
   Einzelleistung:
     art: Mündliche Prüfung und Projektarbeit
     erstpruefer: viet
-    zweitpruefer: mfaske
+    zweitpruefer: ybruegger
     datum: ende
 ---
 

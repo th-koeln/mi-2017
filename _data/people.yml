@@ -76,6 +76,14 @@ mfaske:
     personenseite: 'https://www.th-koeln.de/personen/mario.faske/'
     email: 'mario.faske@th-koeln.de'
     mi: true
+lbrandhoff:
+    id: lbrandhoff
+    status: wma
+    name: 'Lioba Maria Brandhoff'
+    avatar: ''
+    personenseite: 'https://www.th-koeln.de/personen/lioba-Maria-brandhoff/'
+    email: 'lioba-Maria.brandhoff@th-koeln.de'
+    mi: true    
 moe:
     id: moe
     status: prof

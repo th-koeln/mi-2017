@@ -18,8 +18,8 @@ infourl:
 studienleistungen:
   Einzelleistung:
     art: Projektarbeit und -dokumentation (100%)
-    erstpruefer: mboehmer, gh, hk, mbluemm, cn, ck, hs, fn, viet
-    zweitpruefer: mboehmer, gh, hk, bluemm, cn, ck, hs, fn, viet
+    erstpruefer: mboehmer, gh, hk, mbluemm, cn, ck, fn, viet
+    zweitpruefer: mboehmer, gh, hk, bluemm, cn, ck, fn, viet
 ---
 
 ## Kurzbeschreibung

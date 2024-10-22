@@ -20,7 +20,7 @@ studienleistungen:
   Einzelleistung:
     art: Fachvortrag (50%), schriftliche Ausarbeitung (50%)
     erstpruefer: gh
-    zweitpruefer: nkuhn
+    zweitpruefer: lbrandhoff
     datum: vereinbarung
 ---
 
