@@ -19,7 +19,7 @@ studienleistungen:
   Einzelleistung:
     art: individuelles Lernportfolio
     erstpruefer: gh
-    zweitpruefer: nk
+    zweitpruefer: lbrandhoff
     datum: vereinbarung
 ---
 
