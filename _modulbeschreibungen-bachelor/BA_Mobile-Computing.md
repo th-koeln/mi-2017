@@ -29,17 +29,6 @@ studienleistungen:
     datum: ende
 ---
 
-
-Hallo Roman und Christian,
-
-in Mobile Computing (MI) bzw. Mobile Systeme (dasselbe Modul in ITM) mache ich folgende Prüfung:
-
-50% Workshop (Performanzprüfung), bereits im Semester
-50% Projekt (mündliche Prüfungen), Prüfungszeitraum Sept/Okt
-
-Viele Grüße
-Matthias
-
 ## Kurzbeschreibung
 In diesem Modul erfahren Studierende die Relevanz, Herausforderungen und Techniken der Entwicklung mobiler Software. Sie können danach Apps für Smartphones entwerfen, implementieren und managen. Das Modul befähigt Studierende dazu, in weiteren Studienprojekten, der Abschlussarbeit oder im Beruf eigene mobile Anwendungen zu realisieren. Um die Lernziele zu erreichen werden Grundlagen und Konzepte in den Veranstaltungen studiert und in Teams projektorientiert angewandt. Das Modul verfolgt einen inkrementell-iterativen Ansatz von der Erstellung eines ersten Prototypen, über die Implementierung des User Interface, der Auslagerung von Operationen in den Hintergrund, der Speicherung von strukturierten Daten und dem Management mobiler Software.
 
