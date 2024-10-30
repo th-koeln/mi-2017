@@ -267,6 +267,15 @@ ybruegger:
     personenseite: 'https://www.th-koeln.de/personen/yannic.bruegger/'
     email: 'yannic.bruegger@th-koeln.de'
     mi: true    
+dpetersen:
+    id: dpetersen
+    status: wma
+    name: 'David Petersen'
+    avatar: 'https://www.th-koeln.de/pseimg/a1a78bbddf2193afde25b3071c893cc8cc3e8231.png'
+    personenseite: 'https://www.th-koeln.de/personen/david.petersen/'
+    email: 'david.petersen@th-koeln.de'
+    mi: true   
+    
 fv:
     id: fv
     status: prof
